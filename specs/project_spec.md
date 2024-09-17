@@ -1,5 +1,3 @@
----
-
 # **Project Specification: 30g Weight Lifting Mechanism**
 
 ### 1. **Project Overview**
@@ -87,5 +85,3 @@
 
 ### 12. **Appendices**
 - CAD diagrams, 3D model files, and any additional documentation related to the design process.
-
----
