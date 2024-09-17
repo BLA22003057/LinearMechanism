@@ -1,0 +1,1 @@
+We descided to go with the design because it was reletivly easy to design and manufacture so it would be a good first project. It also completes our objective of moving a load of 30g, 15cm in the air whithout overly complicating or over egineering it and uses less materials then our other designs may have.
