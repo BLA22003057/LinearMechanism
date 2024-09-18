@@ -24,5 +24,5 @@ The pulley mechanism is the simplest out of the three we chose, which leaves les
 ###### Tried and True
 This type of mechanism is very common for pulling weights over vertical distance. Similar mechanisms are used in cranes, wells, hoses, extension cables, and lots more.
 
-##### Mechanical Advantage
+###### Mechanical Advantage
 A mechanism with gears can always have its mechanical advantage changed to be able to lift more or less weight, with a faster or slower speed. This makes the mechanism we are developing very adaptable to different loads.
