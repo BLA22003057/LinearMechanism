@@ -26,3 +26,17 @@ This type of mechanism is very common for pulling weights over vertical distance
 
 ###### Mechanical Advantage
 A mechanism with gears can always have its mechanical advantage changed to be able to lift more or less weight, with a faster or slower speed. This makes the mechanism we are developing very adaptable to different loads.
+
+## Which gear type is best for this application?
+
+There are many different types of gears, each with their own individual purpose. 
+
+###### Rack and pinion or spur gears?
+
+For the final design, we decided that a pair of spur gears would be easiest to produce, and also easiest to design a frame to hold the gears on. A rack and pinion would also be larger overall in size, which would increase production time.
+
+###### What type of spur gear?
+
+There are a few types of spur gears that were worth considering: Parallel axis, Helical, Internal + External, and Bevel.
+
+Each gear has varying complexity, strength, and resistance. As we are 3D printing the gears, we
