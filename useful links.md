@@ -1,1 +1,1 @@
-https://www.switchlabs.dev/markdown-to-richtext - markdown to rich text (word document) converter
+https://www.docstomarkdown.pro/convert-markdown-to-word/ - markdown to rich text (word document) converter
