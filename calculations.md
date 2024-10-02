@@ -26,3 +26,5 @@ Max transmitted load = ((1/3 of tensile strength) * Face width * Lewis form fact
 Max transmitted load (Gear 1) = ((37000000 / 3) * (8 / 1000) * 0.245) / (1 / ((30/1000) / 12)) = 60.43N;
 
 Max transmitted load (Gear 2) = ((37000000 / 3) * (8 / 1000) * 0.337) / (1 / ((30/1000) / 12)) = 41.56N;
+
+##### Written by Thea
