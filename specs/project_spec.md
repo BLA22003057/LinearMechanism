@@ -85,3 +85,5 @@
 
 ### 12. **Appendices**
 - CAD diagrams, 3D model files, and any additional documentation related to the design process.
+
+###### Written by Thea
